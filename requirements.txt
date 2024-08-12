@@ -1,0 +1,9 @@
+pdfplumber==0.5.28
+doctr
+torch
+requests
+urllib3
+groq
+python-doctr
+torchvision
+python-dotenv
