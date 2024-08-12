@@ -37,3 +37,13 @@ To run the script:
     python main.py
     Ensure that you replace 'Your_key_here' in main.py with your actual API keys.
     Ensure to add company ticker and company name 
+
+
+
+
+
+
+Not optimized for all companies, it may even fail for the example company based on the model used, be cautious of the pdf downloaded and API key usage. Use with caution. and verify data every now and then so you can continue to analyze with no problem. 
+
+Problems: Optimize for every company as needed
+
